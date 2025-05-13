@@ -1,7 +1,7 @@
-86b3538ed85d50a219155282aa53af7c *DESCRIPTION
+de1c2b2e3208667193b5780f652d61c8 *DESCRIPTION
 1751136ce852f48c6296d1054f8ed258 *LICENSE
 fd8adb730e1c79556eb77f1d94aaaca4 *NAMESPACE
-efa401deadb3c2deb7025f79f25a0685 *NEWS.md
+6b299cbad6ffc97f820a1bbe37928bb6 *NEWS.md
 987d10e3fab75f5ed241576ad3abf292 *R/get_details.R
 f695ff75f796154ab1b7e28b0b15efe7 *R/get_group.R
 467d804a1bfbfb71be4be332d685e6bb *R/get_list.R
@@ -9,7 +9,7 @@ e933c349d6a5a4ef10f36691e90fe403 *R/get_series.R
 26fe72a6395a10b5727f9e6b30b47872 *R/print.valet.R
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
 08345b45e8d1554329ec300e44a726fb *R/valet.R
-d8e57ce3a8ec10542c6d49919c49a34b *README.md
+a0560c6f418ac7e550f87e30d67073c9 *README.md
 5ad88d75de4e5515878635c779eff01e *man/get_details.Rd
 9d96367e6c0eb9a908be33a38fa9f865 *man/get_group.Rd
 9ba561372afe7eef624ece3ad43115ce *man/get_list.Rd
